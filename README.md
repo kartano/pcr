@@ -5,7 +5,7 @@ The PCR system is a web-based patient care record system designed with smaller t
 ## Table of Contents
 
 - [Background](#background)
-- [Install])(#install)
+- [Installation])(#installation)
   - [Server Installation](#server-installation)
   - [Client Installation](#client-installation)
 - [Usage](#usage)
@@ -32,7 +32,7 @@ The design goal is to develop a system which is:
 
 The system is also designed to allow for stand-alone servers in disperate locations, or to be centralized (I.E: with load balancers in an AWS environment).
 
-## Install
+## Installation
 
 TO DO:  Write down installation notes for installation a new system.  Write detailled notes on installation a development server.
 
