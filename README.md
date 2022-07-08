@@ -62,7 +62,7 @@ TO DO:  Notes pertaining to system maintenance, backups, updates and such will g
 
 ## Maintainers
 
-* [@Simon Mitchell](https://github.com/kartano).
+* [@Simon Mitchell](https://github.com/kartano) <kartano@gmail.com>
 * [@CyberJosie](https://github.com/CyberJosie).
 
 ## Contributing
